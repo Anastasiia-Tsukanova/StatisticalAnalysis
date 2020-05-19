@@ -1,0 +1,16 @@
+Sample size: 38
+Shapiro-Wilk
+Statistics=0.960, p=0.196
+Sample looks Gaussian (fail to reject H0)
+-----
+D'Agostino's K^2 Test
+Statistics=2.635, p=0.268
+Sample looks Gaussian (fail to reject H0)
+-----
+Anderson
+Statistic: 0.609
+15.000: 0.529, data does not look normal (reject H0)
+10.000: 0.603, data does not look normal (reject H0)
+5.000: 0.723, data looks normal (fail to reject H0)
+2.500: 0.844, data looks normal (fail to reject H0)
+1.000: 1.004, data looks normal (fail to reject H0)
