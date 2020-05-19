@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# Credit: was written around the code from https://datascienceplus.com/normality-tests-in-python/
+
 # conda activate normalityindependence
 
 from scipy.stats import shapiro, normaltest, anderson, norm, gaussian_kde, ks_2samp, mannwhitneyu, ttest_ind
